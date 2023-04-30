@@ -2,11 +2,12 @@
 <div align="right">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdimmfh%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </div>
+
 ## ⏱️ 개발기간
 * 2023.05.01일 - 진행중
 
 ## 🙈 프로젝트 소개
-
+ - 
 
 ### 🧑‍🤝‍🧑 멤버구성(개발)
  - 팀장 고윤서 - 프론트엔드(레시피 리스트와 상세페이지 구현, UI/UX개발, 커뮤니티 기능 개발)
